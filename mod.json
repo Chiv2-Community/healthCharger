@@ -1,14 +1,8 @@
 {
-  "repo_url": "https://github.com/Chiv2-Community/SimpleMap",
-  "name": "SimpleMap",
-  "description": "A simple map that depends on the health charger",
+  "name": "Health Charger",
+  "description": "An asset for a health charger",
   "mod_type": "Shared",
   "authors": [ "DrLong" ],
-  "dependencies": [
-    {
-      "repo_url": "https://github.com/Chiv2-Community/healthCharger",
-      "version": "v1.0.0"
-    }
-  ],
-  "tags": [ "Map" ]
+  "dependencies": [],
+  "tags": [ "Assets" ]
 }
